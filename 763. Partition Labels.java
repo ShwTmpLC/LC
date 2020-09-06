@@ -26,3 +26,6 @@ class Solution {
         return result;
     }
 }
+
+T: O(N)
+S: O(26)
